@@ -1,4 +1,4 @@
-package com.wws.demo;
+package com.wss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
