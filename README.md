@@ -1,4 +1,3 @@
-
 # **Web Service Study**
 
 <div align="center">
@@ -15,15 +14,16 @@
 - 일정 : 2022.08.21(일) ~ 2022.10.10(일)
 
 ## 🚗 오프라인
-- 장소 : 미정
+- 장소 : 강남역 근처 스터디 카페
 
 ## 📈 진행
-- 본인의 Repository를 생성하며 해당 WSS Repository를 fork합니다.
-    - 본인의 Repository에 project code 작성 - (해야하나?)
-    - WSS Reoisutiry애는 관련 내용들과 아래의 방식을 md방식 혹은 코드를 첨부한다.
+- 본인의 Repository를 생성하며 해당 Web_Servuce_Study Repository를 각자의 Branch 작업 후 진행
+    - 초기 Repository에 환경설정 및 공통 작업 후 개인 Branch로 뻗어나가 추가적인 작업들을 진행
+    - Repository에 그주 각자 작성한 내용 중에 검색 혹은 관련된 내용 공유는 추가적으로 공유
         - 책에 나오는 코드를 이렇게 수정한 이유와 주석
         - 책에서 이해한 부분들의 참고 서적 혹은 내용 정리
 - "SpringBoot와 AWS로 혼자 구현하는 웹 서비스"책을 보고 작성하며 자신의 주석 코드 제작 (주석 방식은 아래 스터디 방식 참조)
+- 코드에 대해서 이해가 안 되거나 혹은 해결이 안되는 경우들을 사진과 함께 첨부하여 이슈에 작성하여 팀원들과 공유 혹은 Q&A로 진행
 
 ## 👥 팀원소개
 <div align="center">
@@ -56,7 +56,7 @@
         <td align="center">name<br/>(ID)</td>
         <td align="center">정진홍<br/>(hongcoding94)</td>
         <td align="center">조은<br/>(rlorloc47)</td>
-        <td align="center">박지은<br/>(je-pa)</td>
+        <td align="center">박지은<br/>( je-pa )</td>
         <td align="center">홍석인<br/>(tkfmxh)</td>
         <td align="center">전상현<br/>(tkdgus97)</td>
         <td align="center">김유미<br/>(gkfgran5037)</td>
