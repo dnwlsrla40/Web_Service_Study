@@ -1,5 +1,5 @@
 <div align="center">
-버전 / 수정일 : Ver.0.1. / 10:10 15th August 2022year
+작성자(버전) | 수정일 / jinhong(Ver.0.1.) / 22th August 2022year
 </div>
 
 # 환경세팅
@@ -65,13 +65,12 @@
   
     
   <details markdown="1">
-  <summary>깃 연동</summary>
+  <summary>github</summary>
 
-  ```git
+  ```Shell
   git pwd
-  git commit -m "${메모내용}"
-  git branch -M -master
-  git remote add 
+  
+  git commit -m "Test_Commit"
   
    
   ```
