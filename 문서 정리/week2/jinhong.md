@@ -74,8 +74,47 @@
   <div align="center">
   
     <img src="" width="600" height="" />
-    <p>MVC 패턴 흐름도</P>
+    <p>MVC 패턴 전체 흐름도</P>
   </div>
+ 
+ - Model, View , Controller 개념
+    - MVC 패턴
+      - MVC 패턴은 Model, View, Controller 개념이 합쳐지면서 생긴 방식으로<br/>
+        소프트웨어 공학에서 사용되는 디자인 패턴
+      
+    <div align="center">
+      <img src="https://user-images.githubusercontent.com/66407386/186082100-3cc65f80-3ecf-4432-aedb-60c0b53110cf.png" width="300" height="" />
+      <p>디자인 패턴</p>
+    </div>
+  
+    - Model
+      - 역할 : Controller에서 받은 데이터를 저장하는 역할
+
+    - View
+      - 역할 : Controller에서 전달 받은 Model 데이터를 바탕으로 사용자에게 보여줌
+
+    - Controller
+      - 사용자가 접근한 URL에 따라 요청을 파악<br/>
+         URL에 맞는 Method를 호출하여 Service와 함께 비지니스 로직을 처리<br/>
+         최종적인 결과를 Model에 저장하여 사용자(View) 화면에 보여준다.
+
+- MVC 패턴 종류
+  - MVC 1 (Model 1)
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/66407386/186081569-a95b3ea5-fc19-41cd-8db1-94f8acbcf0e2.png" width="600" height="" />
+    <p>MVC 1 (Model 1)</p>
+  </div>
+    
+    > ㅇ
+  
+  
+  - MVC 2 (Model 2)
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/66407386/186081597-72fb06e1-513c-448e-9054-0e627801a9d7.png" width="600" height="" />
+    <p>MVC 2 (Model 2)</p>
+  </div>
+
+    > ㅇ
 
 ### JPA란 무엇이며 어떻게 구조화 되어 있는가?
 
@@ -89,7 +128,8 @@
 3. 블로그 - [girawhale님의 [JPA] JPA란? JPA를 사용하는 이유](https://girawhale.tistory.com/119)
 4. 블로그 - [오리엔탈킴님의 [JPA] JPA란? Spring Data JPA로 간단 예제 프로젝트 구현](https://kim-oriental.tistory.com/20)
 5. 블로그 - [neonkid팀의 [SpringData]Spring Data module](https://blog.neonkid.xyz/274)
-6. 영상   - [김성렬님(금오공과대학교)의 스프링과 JPA를 이용한 웹개발](http://www.kocw.net/home/cview.do?mty=p&kemId=1428755)
-7. 영상   - [메타코딩님의 스프링부트 강좌 59강(블로그 프로젝트) - 스프링작동원리 복습](https://www.youtube.com/watch?v=S7LBQxgoVP0&t=17s)
-8. 커뮤니티 - [人CoDOM 커뮤니티의 Spring Data](http://www.incodom.kr/Spring_Boot/Data)
+6. 블로그 - [Aridom님의 [Spring] MVC 패턴 & Spring Framework MVC](https://aridom.tistory.com/61)
+7. 영상   - [김성렬님(금오공과대학교)의 스프링과 JPA를 이용한 웹개발](http://www.kocw.net/home/cview.do?mty=p&kemId=1428755)
+8. 영상   - [메타코딩님의 스프링부트 강좌 59강(블로그 프로젝트) - 스프링작동원리 복습](https://www.youtube.com/watch?v=S7LBQxgoVP0&t=17s)
+9. 커뮤니티 - [人CoDOM 커뮤니티의 Spring Data](http://www.incodom.kr/Spring_Boot/Data)
 
