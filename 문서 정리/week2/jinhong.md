@@ -56,7 +56,14 @@
     - Spring Data for VMware Tanzu GemFire 
 
 - Spring Data의 특징
-  -  
+  - 강력한 레포지토리 패턴과 커스텀 객체 매핑 추상화
+  - 레포지토리 패턴의 메소드 이름으로 동적 쿼리 실행
+  - 기본 속성을 제공하는 도메인 기본 클래스 구현
+  - 이벤트 상태 지원(생성, 마지막 변경)
+  - 커스텀 레포지토리 코드 통합
+  - JavaConfig클래스 및 커스텀 XML 네임스페이스를 이용한 스프링 통합 설정 제공
+  - 더 나은 Spring MVC 컨트롤러와의 통합
+  - 상호간 영속화 지원 (Experimental)
 
 ### JSP란 무엇이며 어떻게 구조화 되어 있는가?
 
@@ -64,6 +71,11 @@
   > JPA와 JSP의 구조는 다르기 때문에 해당 목차에서는 그 차이점을 비교하기 전에<br/>
   > JSP를 다시 한번 이해하기 위해서 작성하는 내용이다.
 
+  <div align="center">
+  
+    <img src="" width="600" height="" />
+    <p>MVC 패턴 흐름도</P>
+  </div>
 
 ### JPA란 무엇이며 어떻게 구조화 되어 있는가?
 
@@ -76,7 +88,8 @@
 2. 공식문서 - [Spring공식문서 페이지](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 3. 블로그 - [girawhale님의 [JPA] JPA란? JPA를 사용하는 이유](https://girawhale.tistory.com/119)
 4. 블로그 - [오리엔탈킴님의 [JPA] JPA란? Spring Data JPA로 간단 예제 프로젝트 구현](https://kim-oriental.tistory.com/20)
-5. 영상   - [김성렬님(금오공과대학교)의 스프링과 JPA를 이용한 웹개발](http://www.kocw.net/home/cview.do?mty=p&kemId=1428755)
-6. 영상   - [메타코딩님의 스프링부트 강좌 59강(블로그 프로젝트) - 스프링작동원리 복습](https://www.youtube.com/watch?v=S7LBQxgoVP0&t=17s)
-7. 커뮤니티 - [人CoDOM 커뮤니티의 Spring Data](http://www.incodom.kr/Spring_Boot/Data)
+5. 블로그 - [neonkid팀의 [SpringData]Spring Data module](https://blog.neonkid.xyz/274)
+6. 영상   - [김성렬님(금오공과대학교)의 스프링과 JPA를 이용한 웹개발](http://www.kocw.net/home/cview.do?mty=p&kemId=1428755)
+7. 영상   - [메타코딩님의 스프링부트 강좌 59강(블로그 프로젝트) - 스프링작동원리 복습](https://www.youtube.com/watch?v=S7LBQxgoVP0&t=17s)
+8. 커뮤니티 - [人CoDOM 커뮤니티의 Spring Data](http://www.incodom.kr/Spring_Boot/Data)
 
